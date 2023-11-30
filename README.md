@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/madhav-kabirath-873726205/overlay/background-image/)](https://madhavkabirath.github.io/portfolilo/)
+[![MasterHead](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_640.jpg)](https://madhavkabirath.github.io/portfolilo/)
 <h1 align="center">Hi 👋, I'm Madhav Kabirath</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
